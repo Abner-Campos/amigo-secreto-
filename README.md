@@ -12,4 +12,4 @@ Esse é um projeto simples de **Amigo Secreto**. Ele permite adicionar nomes de 
 
 1. Faça o **clone** do repositório:
    ```bash
-   git@github.com:Abner-Campos/amigo-secreto-.git
+   https://github.com/Abner-Campos/amigo-secreto-.git
